@@ -1,0 +1,46 @@
+body{
+  background-image: url(rsz_1back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tutto{background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 60%;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 4%;
+  border-radius: 2%;
+  font-size: 95%;
+  margin-top: 2%;
+}
+header, nav{
+  text-align: center;
+  color: greenyellow;
+}
+header > img{
+  width: 30%;
+}
+nav{
+  background-color: greenyellow;
+  padding: 1%;
+}
+.carica, .carica2, .carica3{
+  border: 1%;
+  border-radius: 5px;
+  padding: 1%;
+}
+.carica{
+  width: 40%;
+  background-color: yellow;
+  color: yellow;
+}
+.carica2{
+  width: 70%;
+  background-color: green;
+  color: green;
+}
+.carica3{
+  width: 20%;
+  background-color: red;
+  color: red;
+}
