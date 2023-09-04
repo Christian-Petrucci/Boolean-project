@@ -25,6 +25,7 @@ nav{
   padding: 1%;
 }
 .carica, .carica2, .carica3{
+  height: 17px
   border: 1%;
   border-radius: 5px;
   padding: 1%;
